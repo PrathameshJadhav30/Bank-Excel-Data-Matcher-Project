@@ -13,9 +13,7 @@ This project is a web-based tool designed to match data between two uploaded Exc
 - Excel Processing: pandas for data manipulation and openpyxl for handling Excel files
   # Run the Application
 - Start the Flask server by running:
-
-
-python app.py
+        python app.py
 
 The application will be available at http://127.0.0.1:5000/.
 
