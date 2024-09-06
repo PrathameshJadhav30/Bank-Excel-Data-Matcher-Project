@@ -11,6 +11,16 @@ This project is a web-based tool designed to match data between two uploaded Exc
 - Frontend: HTML, CSS
 - Backend: Python (Flask framework)
 - Excel Processing: pandas for data manipulation and openpyxl for handling Excel files
+  # Run the Application
+- Start the Flask server by running:
+
+
+python app.py
+
+The application will be available at http://127.0.0.1:5000/.
+
+- Open in Browser
+Visit http://127.0.0.1:5000/ in your browser to access the Excel Data Matcher tool.
 
   ## Contact
 
